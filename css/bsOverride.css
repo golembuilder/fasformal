@@ -6,16 +6,48 @@
 	text-align: left;
 }
 
-.infoBox {
-	border: solid thin black;
-	padding: 5px;
-	background-color: #999;
-	width: 200px;
-}
-
 .table th {
-	background-color: #aaa;
-	
+	background-color:  #C79526;;
+}
+
+.table td glyphicon glyphicon-ok, .table td glyphicon glyphicon-star {
+        color: #C79526;
+}
+
+.navbar-inverse .navbar-nav > .active > a:active {
+        color: none;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    color: none;
+    background-color: transparent;
+    
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a {
+    background-image: none;
+    box-shadow: none;
 }
 
 
+
+.carousel-inner>.item>img{
+	margin:0 auto;
+}
+
+.carousel-indicators{
+	bottom:-50px;
+}
+
+.carousel-indicators li{
+	border:2px solid #795A17;;
+}
+
+.carousel-indicators .active{
+	background-color: #C79526;;
+	border:2px solid #795A17;;
+}
+
+#carousel {
+    margin-top: 75px;
+}
