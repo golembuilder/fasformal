@@ -3,7 +3,7 @@ body {
     color: white;
 }
 
-h2 {
+h2, h3{
     color: #C79526;
 }
 
@@ -14,6 +14,12 @@ strong {
 .infoBox {
 	border: solid thin black;
 	padding: 5px;
-	background-color: #999;
+	background-color: #795A17;
 	width: 200px;
+        height: 100px;
+        display: inline-block;
+}
+
+.gold {
+    color: #C79526;
 }

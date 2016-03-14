@@ -7,11 +7,7 @@
 }
 
 .table th {
-	background-color:  #C79526;;
-}
-
-.table td glyphicon glyphicon-ok, .table td glyphicon glyphicon-star {
-        color: #C79526;
+	background-color:  #795A17;
 }
 
 .navbar-inverse .navbar-nav > .active > a:active {
