@@ -24,3 +24,12 @@ strong {
     color: #C79526;
 }
 
+img {
+    display: inline;
+    max-height: 300px;
+
+}
+
+#imgContainer {
+    margin-bottom: 10px;
+}
